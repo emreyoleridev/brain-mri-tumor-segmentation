@@ -4,7 +4,7 @@ A PyTorch U-Net that segments lower-grade glioma (FLAIR abnormality) in brain MR
 **LGG MRI Segmentation** dataset (110 patients, 3,929 slices). It includes Pandas/Seaborn EDA, a patient-level
 evaluation and a Streamlit web app.
 
-**Live demo:** _STREAMLIT_URL_
+**Live demo:** [https://emreyoleridev-brain-mri-tumor-segmentation-app-myw22x.streamlit.app/](https://emreyoleridev-brain-mri-tumor-segmentation-app-myw22x.streamlit.app/)
 
 Full analysis: **[REPORT.md](REPORT.md)** · test results: [results/test_summary.md](results/test_summary.md)
 
