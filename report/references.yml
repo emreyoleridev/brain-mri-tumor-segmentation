@@ -1,0 +1,93 @@
+buda2019:
+  type: article
+  title: Association of Genomic Subtypes of Lower-Grade Gliomas with Shape Features Automatically Extracted by a Deep Learning Algorithm
+  author: ["Buda, Mateusz", "Saha, Ashirbani", "Mazurowski, Maciej A."]
+  date: 2019
+  page-range: 218-225
+  parent: {type: periodical, title: Computers in Biology and Medicine, volume: 109}
+  serial-number: {doi: 10.1016/j.compbiomed.2019.05.002}
+
+clark2013:
+  type: article
+  title: "The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository"
+  author: ["Clark, Kenneth", "Vendt, Bruce", "Smith, Kirk", "Freymann, John", "Kirby, Justin", "Koppel, Paul", "Moore, Stephen", "Phillips, Stanley", "Maffitt, David", "Pringle, Michael", "Tarbox, Lawrence", "Prior, Fred"]
+  date: 2013
+  page-range: 1045-1057
+  parent: {type: periodical, title: Journal of Digital Imaging, volume: 26, issue: 6}
+  serial-number: {doi: 10.1007/s10278-013-9622-7}
+
+menze2015:
+  type: article
+  title: The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)
+  author: ["Menze, Bjoern H.", "Jakab, Andras", "Bauer, Stefan", "Kalpathy-Cramer, Jayashree", "Farahani, Keyvan", "Kirby, Justin", "et al."]
+  date: 2015
+  page-range: 1993-2024
+  parent: {type: periodical, title: IEEE Transactions on Medical Imaging, volume: 34, issue: 10}
+  serial-number: {doi: 10.1109/TMI.2014.2377694}
+
+ronneberger2015:
+  type: article
+  title: "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+  author: ["Ronneberger, Olaf", "Fischer, Philipp", "Brox, Thomas"]
+  date: 2015
+  page-range: 234-241
+  parent: {type: proceedings, title: "Medical Image Computing and Computer-Assisted Intervention (MICCAI), LNCS", volume: 9351}
+  serial-number: {doi: 10.1007/978-3-319-24574-4_28}
+
+milletari2016:
+  type: article
+  title: "V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation"
+  author: ["Milletari, Fausto", "Navab, Nassir", "Ahmadi, Seyed-Ahmad"]
+  date: 2016
+  page-range: 565-571
+  parent: {type: proceedings, title: Proceedings of the Fourth International Conference on 3D Vision (3DV)}
+  serial-number: {doi: 10.1109/3DV.2016.79}
+
+ioffe2015:
+  type: article
+  title: "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"
+  author: ["Ioffe, Sergey", "Szegedy, Christian"]
+  date: 2015
+  page-range: 448-456
+  parent: {type: proceedings, title: Proceedings of the 32nd International Conference on Machine Learning (ICML)}
+
+loshchilov2019:
+  type: article
+  title: Decoupled Weight Decay Regularization
+  author: ["Loshchilov, Ilya", "Hutter, Frank"]
+  date: 2019
+  parent: {type: proceedings, title: International Conference on Learning Representations (ICLR)}
+
+smith2019:
+  type: article
+  title: "Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates"
+  author: ["Smith, Leslie N.", "Topin, Nicholay"]
+  date: 2019
+  parent: {type: proceedings, title: "Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications, Proc. SPIE", volume: 11006}
+  serial-number: {doi: 10.1117/12.2520589}
+
+dice1945:
+  type: article
+  title: Measures of the Amount of Ecologic Association Between Species
+  author: Dice, Lee R.
+  date: 1945
+  page-range: 297-302
+  parent: {type: periodical, title: Ecology, volume: 26, issue: 3}
+  serial-number: {doi: 10.2307/1932409}
+
+isensee2021:
+  type: article
+  title: "nnU-Net: A Self-Configuring Method for Deep Learning-Based Biomedical Image Segmentation"
+  author: ["Isensee, Fabian", "Jaeger, Paul F.", "Kohl, Simon A. A.", "Petersen, Jens", "Maier-Hein, Klaus H."]
+  date: 2021
+  page-range: 203-211
+  parent: {type: periodical, title: Nature Methods, volume: 18, issue: 2}
+  serial-number: {doi: 10.1038/s41592-020-01008-z}
+
+paszke2019:
+  type: article
+  title: "PyTorch: An Imperative Style, High-Performance Deep Learning Library"
+  author: ["Paszke, Adam", "Gross, Sam", "Massa, Francisco", "Lerer, Adam", "Bradbury, James", "Chanan, Gregory", "et al."]
+  date: 2019
+  page-range: 8024-8035
+  parent: {type: proceedings, title: Advances in Neural Information Processing Systems (NeurIPS), volume: 32}
