@@ -1,0 +1,9 @@
+device=mps params=7.76M train=2584 val=664
+[01/30] train 1.4500 | val 1.3253 dice 0.6749 iou 0.5093 | 187s  *best*
+[02/30] train 1.2003 | val 1.1142 dice 0.6817 iou 0.5171 | 87s  *best*
+[03/30] train 0.9444 | val 0.8967 dice 0.6392 iou 0.4697 | 144s
+[04/30] train 0.7615 | val 0.8314 dice 0.6997 iou 0.5381 | 87s  *best*
+[05/30] train 0.6939 | val 0.8179 dice 0.7202 iou 0.5628 | 87s  *best*
+[06/30] train 0.6725 | val 0.8073 dice 0.6281 iou 0.4578 | 95s
+/Users/emreyoleri/.local/share/uv/python/cpython-3.12.13-macos-aarch64-none/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 40 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

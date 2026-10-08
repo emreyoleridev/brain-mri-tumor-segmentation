@@ -1,0 +1,17 @@
+{
+  "best_val_dice": 0.7834922211946548,
+  "best_epoch": 8,
+  "params": 7763041,
+  "device": "mps",
+  "total_min": 17.90416199763616,
+  "epochs": 3,
+  "batch": 16,
+  "lr": 0.0003,
+  "base": 32,
+  "size": 256,
+  "tumor_oversample": 2.0,
+  "workers": 6,
+  "seed": 42,
+  "init": "models/unet_e5.pt",
+  "out": "/Users/emreyoleri/Desktop/computer-vision/brain-mri-tumor-segmentation/models/unet_best.pt"
+}

@@ -1,0 +1,11 @@
+,value
+patients,110
+slices,3929
+tumor_slices,1373
+tumor_slice_ratio,0.3495
+slices_per_patient_min/median/max,20/33/88
+tumor_area_px_median,1529
+tumor_area_px_p10/p90,314/4152
+tumor_area_frac_mean_(tumor_slices),0.0295
+foreground_pixel_ratio_(all_slices),0.0103
+mask_values_unique_max,2

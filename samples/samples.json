@@ -1,0 +1,114 @@
+[
+  {
+    "patient": "TCGA_CS_6188_20010812",
+    "slice": 16,
+    "has_tumor": true,
+    "image": "TCGA_CS_6188_20010812_16.png",
+    "mask": "TCGA_CS_6188_20010812_16_mask.png"
+  },
+  {
+    "patient": "TCGA_DU_7300_19910814",
+    "slice": 13,
+    "has_tumor": true,
+    "image": "TCGA_DU_7300_19910814_13.png",
+    "mask": "TCGA_DU_7300_19910814_13_mask.png"
+  },
+  {
+    "patient": "TCGA_DU_7306_19930512",
+    "slice": 21,
+    "has_tumor": true,
+    "image": "TCGA_DU_7306_19930512_21.png",
+    "mask": "TCGA_DU_7306_19930512_21_mask.png"
+  },
+  {
+    "patient": "TCGA_DU_7306_19930512",
+    "slice": 27,
+    "has_tumor": true,
+    "image": "TCGA_DU_7306_19930512_27.png",
+    "mask": "TCGA_DU_7306_19930512_27_mask.png"
+  },
+  {
+    "patient": "TCGA_DU_8164_19970111",
+    "slice": 24,
+    "has_tumor": true,
+    "image": "TCGA_DU_8164_19970111_24.png",
+    "mask": "TCGA_DU_8164_19970111_24_mask.png"
+  },
+  {
+    "patient": "TCGA_DU_A5TT_19980318",
+    "slice": 32,
+    "has_tumor": false,
+    "image": "TCGA_DU_A5TT_19980318_32.png",
+    "mask": "TCGA_DU_A5TT_19980318_32_mask.png"
+  },
+  {
+    "patient": "TCGA_DU_A5TT_19980318",
+    "slice": 33,
+    "has_tumor": false,
+    "image": "TCGA_DU_A5TT_19980318_33.png",
+    "mask": "TCGA_DU_A5TT_19980318_33_mask.png"
+  },
+  {
+    "patient": "TCGA_DU_A5TT_19980318",
+    "slice": 43,
+    "has_tumor": true,
+    "image": "TCGA_DU_A5TT_19980318_43.png",
+    "mask": "TCGA_DU_A5TT_19980318_43_mask.png"
+  },
+  {
+    "patient": "TCGA_FG_5962_20000626",
+    "slice": 23,
+    "has_tumor": true,
+    "image": "TCGA_FG_5962_20000626_23.png",
+    "mask": "TCGA_FG_5962_20000626_23_mask.png"
+  },
+  {
+    "patient": "TCGA_FG_5962_20000626",
+    "slice": 24,
+    "has_tumor": true,
+    "image": "TCGA_FG_5962_20000626_24.png",
+    "mask": "TCGA_FG_5962_20000626_24_mask.png"
+  },
+  {
+    "patient": "TCGA_FG_6690_20020226",
+    "slice": 37,
+    "has_tumor": false,
+    "image": "TCGA_FG_6690_20020226_37.png",
+    "mask": "TCGA_FG_6690_20020226_37_mask.png"
+  },
+  {
+    "patient": "TCGA_HT_7473_19970826",
+    "slice": 16,
+    "has_tumor": true,
+    "image": "TCGA_HT_7473_19970826_16.png",
+    "mask": "TCGA_HT_7473_19970826_16_mask.png"
+  },
+  {
+    "patient": "TCGA_HT_7877_19980917",
+    "slice": 15,
+    "has_tumor": false,
+    "image": "TCGA_HT_7877_19980917_15.png",
+    "mask": "TCGA_HT_7877_19980917_15_mask.png"
+  },
+  {
+    "patient": "TCGA_HT_A61A_20000127",
+    "slice": 22,
+    "has_tumor": true,
+    "image": "TCGA_HT_A61A_20000127_22.png",
+    "mask": "TCGA_HT_A61A_20000127_22_mask.png"
+  },
+  {
+    "patient": "TCGA_HT_A61A_20000127",
+    "slice": 36,
+    "has_tumor": true,
+    "image": "TCGA_HT_A61A_20000127_36.png",
+    "mask": "TCGA_HT_A61A_20000127_36_mask.png"
+  },
+  {
+    "patient": "TCGA_HT_A61A_20000127",
+    "slice": 53,
+    "has_tumor": true,
+    "image": "TCGA_HT_A61A_20000127_53.png",
+    "mask": "TCGA_HT_A61A_20000127_53_mask.png"
+  }
+]

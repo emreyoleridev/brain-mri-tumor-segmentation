@@ -1,0 +1,4 @@
+device=mps params=7.76M train=2584 val=664
+[06/8] train 0.6440 | val 0.7682 dice 0.7508 iou 0.6010 | 163s  *best*
+[07/8] train 0.6158 | val 0.8643 dice 0.5714 iou 0.4000 | 109s
+[08/8] train 0.6208 | val 0.7302 dice 0.7835 iou 0.6441 | 116s  *best*

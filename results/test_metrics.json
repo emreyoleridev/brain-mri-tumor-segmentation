@@ -1,0 +1,85 @@
+{
+  "threshold": 0.7,
+  "min_area": 100,
+  "val_selected": {
+    "threshold": 0.7,
+    "min_area": 100.0,
+    "global_dice": 0.7873419971120738,
+    "mean_dice_all_slices": 0.8594477514290123,
+    "detect_accuracy": 0.9307228915662651
+  },
+  "checkpoint": {
+    "epoch": 8,
+    "val_dice": 0.7834922211946548,
+    "val_iou": 0.6440503175113871,
+    "params": 7763041,
+    "args": {
+      "epochs": "3",
+      "batch": "16",
+      "lr": "0.0003",
+      "base": "32",
+      "size": "256",
+      "tumor_oversample": "2.0",
+      "workers": "6",
+      "seed": "42",
+      "init": "models/unet_e5.pt",
+      "out": "/Users/emreyoleri/Desktop/computer-vision/brain-mri-tumor-segmentation/models/unet_best.pt"
+    }
+  },
+  "raw": {
+    "global_dice": 0.8140338093672022,
+    "global_iou": 0.6863887147852478,
+    "mean_dice_all_slices": 0.7793601679752258,
+    "mean_dice_tumor_slices": 0.77810114329637,
+    "mean_iou_tumor_slices": 0.6814330780514585,
+    "mean_patient_dice": 0.7680700717511305,
+    "pixel_precision": 0.7904509094880702,
+    "pixel_recall": 0.8390671626744092,
+    "pixel_accuracy": 0.9965917780535862,
+    "detect_accuracy": 0.8414096916299559,
+    "detect_sensitivity": 0.9541666666666667,
+    "detect_specificity": 0.780045351473923,
+    "detect_precision": 0.7024539877300614,
+    "detect_cm": [
+      [
+        344,
+        97
+      ],
+      [
+        11,
+        229
+      ]
+    ],
+    "slices": 681,
+    "tumor_slices": 240,
+    "patients": 17
+  },
+  "final": {
+    "global_dice": 0.8218592464336607,
+    "global_iou": 0.6975900323843462,
+    "mean_dice_all_slices": 0.83948340176558,
+    "mean_dice_tumor_slices": 0.7737008191764997,
+    "mean_iou_tumor_slices": 0.6774845321328093,
+    "mean_patient_dice": 0.775735261985605,
+    "pixel_precision": 0.8328985372216529,
+    "pixel_recall": 0.8111087587708686,
+    "pixel_accuracy": 0.9968740320415749,
+    "detect_accuracy": 0.9001468428781204,
+    "detect_sensitivity": 0.9458333333333333,
+    "detect_specificity": 0.8752834467120182,
+    "detect_precision": 0.8049645390070922,
+    "detect_cm": [
+      [
+        386,
+        55
+      ],
+      [
+        13,
+        227
+      ]
+    ],
+    "slices": 681,
+    "tumor_slices": 240,
+    "patients": 17
+  }
+}

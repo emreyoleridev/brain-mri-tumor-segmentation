@@ -1,0 +1,23 @@
+{
+  "total_slices": 3929,
+  "unreadable_or_missing_mask": 0,
+  "wrong_size": 0,
+  "blank_image": 0,
+  "kept_slices": 3929,
+  "patients": 110,
+  "split_patients": {
+    "test": 17,
+    "train": 76,
+    "val": 17
+  },
+  "split_slices": {
+    "test": 681,
+    "train": 2584,
+    "val": 664
+  },
+  "split_tumor_slices": {
+    "test": 240,
+    "train": 898,
+    "val": 235
+  }
+}
